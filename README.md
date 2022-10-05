@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi, I'm Jiyad Khan 👋 
-[<img src="img/twitter.png">](https://twitter.com/jiyadkhan_10)
+[<img src="https://www.google.com/search?q=twitter+logo+in+linkden&tbm=isch&ved=2ahUKEwiixY2Ljcr6AhUHfBoKHc1JB2EQ2-cCegQIABAA&oq=twitter+logo+in+linkden&gs_lcp=CgNpbWcQAzoHCAAQsQMQQzoFCAAQgAQ6CAgAEIAEELEDUABY_HBgjXRoBXAAeAGAAewZiAHgigGSAQszLTkuNi0xLjktNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=YgA-Y6KMMIf4ac2TnYgG&rlz=1C1CHBF_enPK867PK867#imgrc=RWwKxubIquUChM&imgdii=5LaZ6z-r2PebAM">](https://twitter.com/jiyadkhan_10)
