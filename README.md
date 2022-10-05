@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi, I'm Jiyad Khan 👋 
+[<img src="img/twitter.png">](https://twitter.com/jiyadkhan_10)
