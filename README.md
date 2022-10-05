@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi, I'm Jiyad Khan 👋 
-[<img src="C:\Users\hp\Downloads\img/twitter.png">](https://twitter.com/jiyadkhan_10)
+[<img src="C:/Users/hp/Downloads/img/twitter.png">](https://twitter.com/jiyadkhan_10)
