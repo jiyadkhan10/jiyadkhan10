@@ -23,6 +23,6 @@ Student of BS Data Science in FAST NUCES Islamabad. Working on the multiple proj
 Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | MongoDB | Hadoop | Spark | SQL | PHP | HTML | Javascript.
 
 🌱 I’m currently learning to work with 
-
+<img src="https://github-readme-stats.vercel.app/api?username=jiyadkhan10&show_icons=true"/>
 <p style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyadkhan10">
 
