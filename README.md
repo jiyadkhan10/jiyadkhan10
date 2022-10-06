@@ -30,12 +30,12 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 
 <br />
 
-# GitHub stats
+# GitHub Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jiyadkhan10&show_icons=true&theme=dark"/> </p> <br />
 
 <br />
 
-# Most used languages
+# Most Used Languages
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyadkhan10&theme=dark"> </p> <br />
 
 <br />
@@ -44,7 +44,7 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 
 <br />
 
-# Total contributions and streaks
+# Total Contributions and Streaks
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyadkhan10&theme=dark"/> </p> <br />
 
 <br />
