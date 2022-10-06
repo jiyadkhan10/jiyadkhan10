@@ -20,5 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 Student of BS Data Science in FAST NUCES Islamabad. Working on the multiple projects based on Data Cleaning, Data Analysis, Data visualization and Data prediction through Machine learning ( clustering, classification, and NLP), Big Data Analytics and Statistics. A Python, C++ and My SQL expert with proven business development, management and programming experience.
 
-Skills: Python (Programming Language), C++, C (Programming Language), R (Programming Language), MySQL, HTML, JavaScript.
+Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | MongoDB | Hadoop | Spark | SQL | PHP | HTML | Javascript.
+
+🌱 I’m currently learning to work with 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyadkhan10"/>
 
