@@ -24,5 +24,5 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 
 🌱 I’m currently learning to work with 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyadkhan10"/ display: block; margin-left: auto; margin-right: auto; width: 50%;>
+<p style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyadkhan10"/ >
 
