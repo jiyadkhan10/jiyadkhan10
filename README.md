@@ -30,6 +30,10 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 
 <br />
 
+👯 I’m looking to collaborate on more Data Science Related Projects <br />
+
+<br />
+
 # GitHub Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jiyadkhan10&show_icons=true&theme=dark"/> </p> <br />
 
