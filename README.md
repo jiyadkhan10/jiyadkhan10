@@ -39,6 +39,10 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 
 <br />
 
+📫 How to reach me: [<img align="left" alt="Jiyad's Github" width="22px" src="https://camo.githubusercontent.com/5f5cadad3e06f6dd96c64d4025e219856ae6f923799bc8ea4e628013de25724a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width: 100%;">](https://github.com/jiyadkhan10) <br />
+
+<br />
+
 # Technologies
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e"><img src="https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" style="max-width: 100%;"></a>&nbsp;
