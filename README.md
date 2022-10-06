@@ -26,13 +26,20 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 
 <br />
 
-🌱 I’m currently learning to work with <br />
+🌱 I’m currently learning to work with various projects in the following fields: <br />
+
+1. Data Science <br />
+2. Data Visualization <br />
+3. Data Cleaning <br />
+4. Machine Learning <br />
 
 <br />
 
 👯 I’m looking to collaborate on more Data Science Related Projects <br />
 
 <br />
+
+# Technologies
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e"><img src="https://camo.githubusercontent.com/1d60a65352c961dc0bc3bfcddb926a34787b47ffced9bcadeaea32962297ef5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3035313232413f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" style="max-width: 100%;"></a>&nbsp;
