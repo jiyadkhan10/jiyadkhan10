@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 [<img align="left" alt="Jiyad's Facebook" width="22px" src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width: 100%;">](https://www.facebook.com/jiyad.khan.58/) <br />
 
-Student of BS Data Science in FAST NUCES Islamabad. Working on the multiple projects based on Data Cleaning, Data Analysis, Data visualization and Data prediction through Machine learning ( clustering, classification, and NLP), Big Data Analytics and Statistics. A Python, C++ and My SQL expert with proven business development, management and programming experience. <br / >
+Student of BS Data Science in FAST NUCES Islamabad. Working on the multiple projects based on Data Cleaning, Data Analysis, Data visualization and Data prediction through Machine learning ( clustering, classification, and NLP), Big Data Analytics and Statistics. A Python, C++ and My SQL expert with proven business development, management and programming experience.
 
 <br />
 
