@@ -61,7 +61,7 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 <br />
 
 # Most Used Languages
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyadkhan10&langs_count=5&theme=tokyonight)]() <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyadkhan10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
 
 <br />
 
