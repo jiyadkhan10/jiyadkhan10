@@ -56,8 +56,7 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aaeabb2907f9a825f4f029439805f9efcf9726258a1a3dfc96e029a4223a22f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3035313232413f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d343437394131"><img src="https://camo.githubusercontent.com/aaeabb2907f9a825f4f029439805f9efcf9726258a1a3dfc96e029a4223a22f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3035313232413f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d343437394131" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-05122A?style=flat&amp;logo=mysql&amp;logoColor=4479A1" style="max-width: 100%;"></a>&nbsp;</p>
 
 # GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jiyadkhan10&count_private=true&theme=tokyonight&showicons=true)]()
- <br />
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jiyadkhan10&count_private=true&theme=tokyonight&showicons=true)]() <br />
 
 <br />
 
