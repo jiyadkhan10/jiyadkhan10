@@ -23,9 +23,11 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 🌱 I’m currently learning to work with various projects in the following fields: <br />
 
 1. Data Science <br />
-2. Data Visualization <br />
-3. Data Cleaning <br />
-4. Machine Learning <br />
+2. Data Cleaning <br />
+3. Data Analysis <br />
+4. Data Visualization <br /> 
+5. Machine Learning <br />
+6. Deep Learning <br />
 
 <br />
 
