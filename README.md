@@ -47,6 +47,34 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 
 <br />
 
+<p align="left">
+  <a href="https://github.com/jiyadkhan10">
+    <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
+  </a>
+  <a href="https://github.com/jiyadkhan10">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
+  </a>
+ 
+  <a href="https://medium.com/@jiyadkhan10">
+    <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
+  </a>
+  <a href="https://github.com/jiyadkhan10?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/codemaker2015?color=yellow&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/jiyadkhan10">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+  </a>
+  <a href="https://twitter.com/jiyadkhan_10">
+    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
+  </a>
+  <a href="https://www.facebook.com/jiyad.khan.58">
+    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
+  </a>
+</p>
+
+<br />
+
+
 <img src="https://camo.githubusercontent.com/c9c997e0d3742027e8f1c7629a028f36328812d4dfd9a4828d3fd788cf10bbca/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6d757361646163" data-canonical-src="https://github-profile-trophy.vercel.app/?username=jiyadkhan10" style="max-width: 100%;">
 
 <br />
