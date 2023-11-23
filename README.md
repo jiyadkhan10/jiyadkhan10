@@ -51,7 +51,7 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
   <a href="https://github.com/jiyadkhan10">
     <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
   </a>
-  <a href="https://github.com/jiyadkhan10">
+  <a href="https://github.com/jiyadkhan10/jiyadkhan10">
     <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
   </a>
  
