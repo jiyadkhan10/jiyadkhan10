@@ -53,7 +53,7 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/jiyadkhan10?color=yellow&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/jiyadkhan10">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/linkedin/followers/jiyadkhan10?color=blue&logo=linkedin">
   </a>
   <a href="https://twitter.com/jiyadkhan_10">
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
