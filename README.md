@@ -3,11 +3,8 @@ jiyadkhan10/jiyadkhan10 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hi, I'm Jiyad Khan 👋 
+# Hi, I'm Jiyad Khan 👋 <a href="https://github.com/jiyadkhan10"> <img src="https://komarev.com/ghpvc/?username=jiyadkhan10&color=red" alt="profile views" /></a>
 <p align="left">
-  <a href="https://github.com/jiyadkhan10">
-    <img src="https://komarev.com/ghpvc/?username=jiyadkhan10&color=red" alt="profile views" />
-  </a>
  <a href="https://linktr.ee/jiyad_khan">
     <img alt="Link Tree's Profile" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
@@ -34,6 +31,9 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://twitter.com/jiyadkhan_10">
     <img alt="Twitter's Profile" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a>
+    <img alt="Dell Laptop" src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white">
   </a>
 </p>
 
