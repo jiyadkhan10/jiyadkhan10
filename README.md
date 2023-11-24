@@ -194,7 +194,7 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 <h1>📈 Activity Graph 🔝</h1>
 <p>
  <a>
-  <img alt="Brave" src="https://gists-readme.yizack.com/api?user=jiyadkhan10">
+  <img alt="Brave" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiyadkhan10&theme=tokyonight">
  </a>
 </p>
 
