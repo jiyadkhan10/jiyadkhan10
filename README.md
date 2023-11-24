@@ -45,24 +45,29 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
   <a href="https://github.com/jiyadkhan10">
     <img src="https://komarev.com/ghpvc/?username=jiyadkhan10&color=red" alt="profile views" />
   </a>
+ <a href="https://linktr.ee/jiyad_khan">
+    <img alt="Link Tree's Profile" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/jiyadkhan10">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn's Profile" />
   </a>
  <a href="https://github.com/jiyadkhan10">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="profile views" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github's Profile" />
   </a>
  <a href="https://www.kaggle.com/muhammadjiyadkhan">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+    <img alt="Kaggle's Profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
   </a>
   <a href="https://medium.com/@jiyadkhan10">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  
+  <a href="https://www.facebook.com/jiyad.khan.58">
+    <img alt="Facebook's Profile" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/jiyad_khan_/">
+    <img alt="Instagram's Profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
   <a href="https://twitter.com/jiyadkhan_10">
     <img alt="Twitter's Profile" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/jiyad.khan.58">
-    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
   </a>
 </p>
 
