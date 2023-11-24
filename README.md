@@ -191,6 +191,12 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
     <img alt="Brave" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
   </a>
 </p>
+<h1>📈 Activity Graph 🔝</h1>
+<p>
+ <a>
+  <img alt="Brave" src="https://github-readme-activity-graph.cyclic.app/graph?username=jiyadkhan10&theme=react-dark">
+ </a>
+</p>
 
 # GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jiyadkhan10&count_private=true&theme=tokyonight&showicons=true)]() <br />
