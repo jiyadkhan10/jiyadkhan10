@@ -73,7 +73,7 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=jiyadkhan10&theme=discord)
 
 <br />
-<h> 👩‍💻 Technologies </h>
+<h2> 👩‍💻 Technologies </h2>
 
 <p align="left">
   <a>
