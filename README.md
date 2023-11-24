@@ -45,7 +45,12 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
   <a href="https://github.com/jiyadkhan10">
     <img src="https://komarev.com/ghpvc/?username=jiyadkhan10&color=red" alt="profile views" />
   </a>
-  
+  <a href="https://github.com/jiyadkhan10">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profile views" />
+  </a>
+ <a href="https://github.com/jiyadkhan10">
+    <img src="https://komarev.com/ghpvc/?username=jiyadkhan10&color=red" alt="profile views" />
+  </a>
   <a href="https://medium.com/@jiyadkhan10">
     <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
   </a>
