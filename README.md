@@ -4,11 +4,40 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi, I'm Jiyad Khan 👋 
-[<img align="left" alt="Jiyad's Twitter" width="22px" src="https://camo.githubusercontent.com/395dda360ae28377b7c3247581a88b20573883519c2be833cb64fbb37dcbcc1a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width: 100%;">](https://twitter.com/jiyadkhan_10)
+<p align="left">
+  <a href="https://github.com/jiyadkhan10">
+    <img src="https://komarev.com/ghpvc/?username=jiyadkhan10&color=red" alt="profile views" />
+  </a>
+ <a href="https://linktr.ee/jiyad_khan">
+    <img alt="Link Tree's Profile" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jiyadkhan10">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn's Profile" />
+  </a>
+ <a href="https://github.com/jiyadkhan10">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github's Profile" />
+  </a>
+ <a href="https://www.kaggle.com/muhammadjiyadkhan">
+    <img alt="Kaggle's Profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a>
+  <a href="https://medium.com/@jiyadkhan10">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+ <a href="https://www.hackerrank.com/profile/jiyadkhan10">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank's Profile" />
+  </a>
+  <a href="https://www.facebook.com/jiyad.khan.58">
+    <img alt="Facebook's Profile" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/jiyad_khan_/">
+    <img alt="Instagram's Profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://twitter.com/jiyadkhan_10">
+    <img alt="Twitter's Profile" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+</p>
 
-[<img align="left" alt="Jiyad's Linkdein" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;">](https://www.linkedin.com/in/jiyad-khan-a3775922a/)
-
-[<img align="left" alt="Jiyad's Github" width="22px" src="https://camo.githubusercontent.com/5f5cadad3e06f6dd96c64d4025e219856ae6f923799bc8ea4e628013de25724a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width: 100%;">](https://github.com/jiyadkhan10)
+<br />
 
 [<img align="left" alt="Jiyad's Facebook" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white"style="max-width: 100%;">](https://www.facebook.com/jiyad.khan.58/) <br />
 
@@ -41,38 +70,6 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 
 <br />
 
-<p align="left">
-  <a href="https://github.com/jiyadkhan10">
-    <img src="https://komarev.com/ghpvc/?username=jiyadkhan10&color=red" alt="profile views" />
-  </a>
- <a href="https://linktr.ee/jiyad_khan">
-    <img alt="Link Tree's Profile" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/jiyadkhan10">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn's Profile" />
-  </a>
- <a href="https://github.com/jiyadkhan10">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github's Profile" />
-  </a>
- <a href="https://www.kaggle.com/muhammadjiyadkhan">
-    <img alt="Kaggle's Profile" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
-  </a>
-  <a href="https://medium.com/@jiyadkhan10">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  </a>
-  <a href="https://www.facebook.com/jiyad.khan.58">
-    <img alt="Facebook's Profile" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/jiyad_khan_/">
-    <img alt="Instagram's Profile" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://twitter.com/jiyadkhan_10">
-    <img alt="Twitter's Profile" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-  </a>
-</p>
-
-<br />
-
 # Github Profile Trophy
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=jiyadkhan10&theme=discord)
@@ -98,12 +95,8 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 # GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jiyadkhan10&count_private=true&theme=tokyonight&showicons=true)]() <br />
 
-<br />
-
 # Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyadkhan10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
-
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyadkhan10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
 # Total Contributions and Streaks
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyadkhan10&theme=dark"/> </p> <br />
