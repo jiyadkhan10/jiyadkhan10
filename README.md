@@ -45,23 +45,21 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
   <a href="https://github.com/jiyadkhan10">
     <img src="https://komarev.com/ghpvc/?username=jiyadkhan10&color=red" alt="profile views" />
   </a>
-  <a href="https://github.com/jiyadkhan10">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="profile views" />
+  <a href="https://www.linkedin.com/in/jiyadkhan10">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
  <a href="https://github.com/jiyadkhan10">
     <img src="https://komarev.com/ghpvc/?username=jiyadkhan10&color=red" alt="profile views" />
   </a>
+ <a href="https://www.kaggle.com/muhammadjiyadkhan">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a>
   <a href="https://medium.com/@jiyadkhan10">
     <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
   </a>
-  <a href="https://github.com/jiyadkhan10?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jiyadkhan10?color=yellow&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/jiyadkhan10">
-    <img alt="Linkedin followers" src="https://img.shields.io/linkedin/followers/jiyadkhan10?color=blue&logo=linkedin">
-  </a>
+  
   <a href="https://twitter.com/jiyadkhan_10">
-    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
+    <img alt="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="https://www.facebook.com/jiyad.khan.58">
     <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
