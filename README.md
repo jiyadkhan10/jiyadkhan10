@@ -168,7 +168,9 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   </a>  
 </p>
-# 💻 Workspace Spec
+<h1>
+ 💻 Workspace Spec
+</h1>
 <p align="left">   
   <a>
     <img alt="Dell Laptop" src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white">
