@@ -33,10 +33,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="Twitter's Profile" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="https://www.datacamp.com/portfolio/MuhammadJiyadKhan">
-    <img alt="Data Camp's Profile" src="	https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F">
-  </a>
-  <a href="https://www.datacamp.com/portfolio/MuhammadJiyadKhan">
-    <img alt="Data Camp's Profile" src="	https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F">
+    <img alt="Data Camp's Profile" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F">
   </a>
   <a>
     <img alt="Dell Laptop" src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white">
