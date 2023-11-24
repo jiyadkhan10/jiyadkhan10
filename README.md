@@ -59,7 +59,7 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
   </a>
   
   <a href="https://twitter.com/jiyadkhan_10">
-    <img alt="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+    <img alt="Twitter's Profile" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="https://www.facebook.com/jiyad.khan.58">
     <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
