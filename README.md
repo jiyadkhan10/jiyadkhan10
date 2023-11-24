@@ -191,21 +191,24 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
     <img alt="Brave" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
   </a>
 </p>
-<h1>📈 Activity Graph 🔝</h1>
+<h1>💳 Github Profile Summary Card</h1>
 <p>
  <a>
   <img alt="Brave" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiyadkhan10&theme=tokyonight">
  </a>
 </p>
 
-# GitHub Stats
+<h1>📟 GitHub Stats</h1>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jiyadkhan10&count_private=true&theme=tokyonight&showicons=true)]() <br />
 
-# Most Used Languages
+<h1>📊 Most Used Languages </h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyadkhan10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
-# Total Contributions and Streaks
+<h1>⏱ Total Contributions and Streaks </h1>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyadkhan10&theme=dark"/> </p> <br />
+
+<h1>🏆 Github Profile Trophy </h1>
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=jiyadkhan10&theme=discord)
 
 <br />
 
