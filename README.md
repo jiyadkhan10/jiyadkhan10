@@ -35,6 +35,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.datacamp.com/portfolio/MuhammadJiyadKhan">
     <img alt="Data Camp's Profile" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F">
   </a>
+  <a href="https://www.hackerrank.com/profile/jiyadkhan10">
+    <img alt="Hacker Rank's Profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
 </p>
 
 <br />
