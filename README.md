@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi, I'm Jiyad Khan 👋 <a href="https://github.com/jiyadkhan10"> <img src="https://komarev.com/ghpvc/?username=jiyadkhan10&color=red" alt="profile views" /></a>
-<p align="left">
+<p align="center">
  <a href="https://linktr.ee/jiyad_khan">
     <img alt="Link Tree's Profile" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
