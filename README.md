@@ -70,7 +70,7 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 
 <h2> 👩‍💻 Technologies </h2>
 
-<p align="left">
+<p align="centre">
   <a>
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   </a>
@@ -166,7 +166,7 @@ Skills: Python | R | C/C++ | Data Analysis | Deep Learning | React | Git | Mongo
 <h1>
  💻 Workspace Spec
 </h1>
-<p align="left">   
+<p align="centre">   
   <a>
     <img alt="Dell Laptop" src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white">
   </a>
